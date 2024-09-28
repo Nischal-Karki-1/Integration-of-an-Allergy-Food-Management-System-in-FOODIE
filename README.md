@@ -2,7 +2,9 @@
 **Authors**
 
 - Nabin Prasad Dhakal (nd16041720@student.ku.edu.np)
+  
 - Nischal Karki (nk23041720@student.ku.edu.np)
+  
 - Mentor: Dr. Sushil Shrestha (sushil@ku.edu.np)
 
 
@@ -23,8 +25,11 @@ Participants for this study were selected to ensure diversity while maintaining 
 The study followed a **mixed-methods research design**, integrating both qualitative and quantitative approaches to evaluate the user experience and feasibility of the food allergy alert system. The research was conducted in iterative cycles to continuously refine the system based on user feedback.
 
 The research was divided into:
+
 - **Pre-survey Phase**: Collected baseline data from participants about their habits related to food delivery and their experience with managing food allergies.
+  
 - **Prototype Testing**: Two prototypes (Design A and Design B) were developed and tested. The designs were evaluated through user tasks and feedback.
+  
 - **Post-survey Phase**: Participants provided feedback after viewing a video demonstration of the prototype system, helping refine the system's usability and design elements.
 
 ### 3. Data Collection
@@ -33,9 +38,13 @@ Data collection followed Agile and Waterfall methodologies to gather comprehensi
 **Pre-survey**: Multiple-choice questions were used to understand user profiles, their habits with food delivery apps, their knowledge of food allergies, and current strategies for managing allergies.
 
 **Post-survey**: After viewing a video demonstration of the prototype, participants provided feedback on the following aspects:
+
 - **User Experience**: Feedback on the prototype’s usability, effectiveness, and satisfaction.
+  
 - **Feasibility of Allergy Recommendations**: Evaluation of whether users found the system practical for making informed food choices.
+  
 - **Design Perspective**: Collected feedback on the design elements, including the placement of warnings and alerts.
+  
 - **User Recommendations**: Gathered suggestions for system improvements through iterative feedback loops.
 
 For **in-person prototype testing**, we employed a **10-question System Usability Scale (SUS)** with a 5-point Likert scale to assess user experience quantitatively. Both **low-fidelity** and **high-fidelity** prototypes were tested, focusing on Design B. A/B testing was conducted to compare the two designs, using task success rate as a key metric for evaluating usability.
@@ -48,14 +57,21 @@ Ethical considerations were strictly adhered to throughout the study. Participan
 ## Results
 
 ### 1. Usability Testing
-  - #### In-Person Prototype Testing 
+  - #### In-Person Prototype Testing
+    
       - **System Usability Scale (SUS) Scores:**
+        
         - **Low-fidelity Prototype:** SUS score of **72.4** (Grade B, good acceptability).
+          
         - **High-fidelity Prototype:** SUS score of **85.7** (Grade A+, excellent acceptability).
+          
   - #### A/B Testing
+    
     - **Task Success Rate:**
-    - **Design A:** 70%
-    - **Design B:** 90%
+      
+      - **Design A:** 70%
+     
+      - **Design B:** 90%
 
 Design B performed significantly better than Design A, particularly in terms of navigation, clarity of allergen information, and visual appeal. The results indicate that Design B is more user-friendly and effective in ensuring allergen safety.
 
@@ -92,14 +108,11 @@ Design B performed significantly better than Design A, particularly in terms of 
 </div>
 
 ## Research Paper Preview
-![Reserach Paper on Food Allergy Alert System-images-0](https://github.com/user-attachments/assets/a8d2616a-6b25-4497-bbd1-a316947e8190)
-![Reserach Paper on Food Allergy Alert System-images-1](https://github.com/user-attachments/assets/b988c5e6-8ffb-490a-ae13-085c6996a6de)
-![Reserach Paper on Food Allergy Alert System-images-2](https://github.com/user-attachments/assets/819f0892-ca5b-46ba-b8b3-4dd11abf7642)
-![Reserach Paper on Food Allergy Alert System-images-3](https://github.com/user-attachments/assets/4a065333-d22c-43f6-b1bf-d56d9d6de0f5)
-![Reserach Paper on Food Allergy Alert System-images-4](https://github.com/user-attachments/assets/a3df2299-bf2b-4b11-88b4-d3dd0a221d4f)
-![Reserach Paper on Food Allergy Alert System-images-5](https://github.com/user-attachments/assets/4d5b360d-bf32-456c-984f-bd4c44a4371e)
-![Reserach Paper on Food Allergy Alert System-images-6](https://github.com/user-attachments/assets/4e30ebda-c4b9-4d3c-814c-a64ce948aa79)
-![Reserach Paper on Food Allergy Alert System-images-7](https://github.com/user-attachments/assets/e0c3b5b8-ac8e-4fec-b70b-a8e9fca781ac)
-
-
-
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-0](https://github.com/user-attachments/assets/51123510-53dc-4716-94fb-d79e770eae8a)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-1](https://github.com/user-attachments/assets/aa76631c-d969-4e84-aa0c-608ede99e686)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-2](https://github.com/user-attachments/assets/3d0b193b-fbeb-467c-aadb-4fcc4774bd29)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-3](https://github.com/user-attachments/assets/98ca52fe-9ce6-4fb1-945b-1ba3af308d28)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-4](https://github.com/user-attachments/assets/fd493756-cfd8-4d36-af16-b10dcf54a120)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-5](https://github.com/user-attachments/assets/839dbf4c-6ce0-4cfb-b197-fba2d544078e)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-6](https://github.com/user-attachments/assets/42eca9aa-2f7a-4aa9-b54b-a228a21f1954)
+![Research Paper on A User-Centered Design for Food Allergy Alert System Enhancing User Safety and Usability-images-7](https://github.com/user-attachments/assets/0ff23eb1-0a6a-4348-9130-b7b628c31abf)
