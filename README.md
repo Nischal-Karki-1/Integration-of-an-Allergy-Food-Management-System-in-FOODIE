@@ -1,4 +1,4 @@
-#🚀 Integration-of-an-Allergy-Food-Management-System-in-FOODIE
+# 🚀 Integration-of-an-Allergy-Food-Management-System-in-FOODIE
 **Authors**
 
 - Nabin Prasad Dhakal (nd16041720@student.ku.edu.np)
